@@ -7,3 +7,6 @@ jobs:
     steps:
       - name: Conventional commit check
         uses: oknozor/cocogitto-action@main
+
+      - run: |
+          cog --help
