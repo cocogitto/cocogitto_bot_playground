@@ -5,8 +5,20 @@ jobs:
     runs-on: ubuntu-latest
     name: check conventional commit compliance
     steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
       - name: Conventional commit check
         uses: oknozor/cocogitto-action@main
 
-      - run: |
-          cog --help
+      - name: Create changelog
+        run: cog changelog > Changelog.md
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          body_path: Changelog.md
+          files: |
+            Changelog.md
