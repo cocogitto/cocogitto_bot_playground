@@ -6,4 +6,4 @@ jobs:
     name: check conventional commit compliance
     steps:
       - name: Conventional commit check
-        uses: oknozor/cocogitto-action@v1
+        uses: oknozor/cocogitto-action@main
