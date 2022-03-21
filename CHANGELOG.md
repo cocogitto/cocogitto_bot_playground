@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.3.0](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.2.0..1.3.0) - 2022-03-21
+#### Features
+- add a co-authored commit - ([29429ee](https://github.com/cocogitto/cocogitto_bot_playground/commit/29429eeba606fa013982543ee14625637eac1021)) - [@oknozor](https://github.com/oknozor)
+- - -
+
 ## [1.2.0](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.1.0..1.2.0) - 2021-11-26
 #### Bug Fixes
 - **(parser)** handle lowercase identifier - ([7521015](https://github.com/cocogitto/cocogitto_bot_playground/commit/7521015ca4129e6180ba227344d9d0dd751034c9)) - [@oknozor](https://github.com/oknozor)
