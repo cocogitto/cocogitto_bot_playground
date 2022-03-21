@@ -4,7 +4,7 @@ pre_bump_hooks = [
 
 
 post_bump_hooks = [
-    "git push",
+    "git push --force",
     "git push origin {{version}}",
 ]
 
