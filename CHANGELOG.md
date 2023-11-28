@@ -2,12 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+<<<<<<< HEAD
 ## [1.4.0-beta2](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.3.0-beta1..1.4.0-beta2) - 2023-10-28
 #### Features
 - some stuff - ([65b3387](https://github.com/cocogitto/cocogitto_bot_playground/commit/65b33872a96730cd0c64d56d5ef73cd8eb82d112)) - [@oknozor](https://github.com/oknozor)
 
 - - -
 
+=======
+>>>>>>> a2e8330 (fix: good)
 ## [1.3.0-beta1](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.2.0..1.3.0-beta1) - 2023-10-28
 #### Features
 - eozmirham - ([0ef7016](https://github.com/cocogitto/cocogitto_bot_playground/commit/0ef70164519f2eb3a2b0fc3243694df7f507be2d)) - [@oknozor](https://github.com/oknozor)
