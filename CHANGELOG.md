@@ -3,6 +3,7 @@ All notable changes to this project will be documented in this file. See [conven
 
 - - -
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## [1.4.0-beta2](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.3.0-beta1..1.4.0-beta2) - 2023-10-28
 #### Features
 - some stuff - ([65b3387](https://github.com/cocogitto/cocogitto_bot_playground/commit/65b33872a96730cd0c64d56d5ef73cd8eb82d112)) - [@oknozor](https://github.com/oknozor)
@@ -11,6 +12,16 @@ All notable changes to this project will be documented in this file. See [conven
 
 =======
 >>>>>>> a2e8330 (fix: good)
+=======
+## [1.3.0](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.2.0..1.3.0) - 2023-12-01
+#### Features
+- post - ([b2cc00a](https://github.com/cocogitto/cocogitto_bot_playground/commit/b2cc00aaa129eb46893b5fc0285318da2ff631b4)) - [@oknozor](https://github.com/oknozor)
+- popo - ([8980856](https://github.com/cocogitto/cocogitto_bot_playground/commit/8980856f1ebb1837bfc463bc0f8b67ad43f85e57)) - [@oknozor](https://github.com/oknozor)
+- eozmirham - ([0ef7016](https://github.com/cocogitto/cocogitto_bot_playground/commit/0ef70164519f2eb3a2b0fc3243694df7f507be2d)) - [@oknozor](https://github.com/oknozor)
+
+- - -
+
+>>>>>>> f1a3fb9 (chore(version): 1.3.0 )
 ## [1.3.0-beta1](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.2.0..1.3.0-beta1) - 2023-10-28
 #### Features
 - eozmirham - ([0ef7016](https://github.com/cocogitto/cocogitto_bot_playground/commit/0ef70164519f2eb3a2b0fc3243694df7f507be2d)) - [@oknozor](https://github.com/oknozor)
