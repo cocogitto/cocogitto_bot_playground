@@ -1,0 +1,29 @@
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    name: Cog action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git config --global user.email github-actions@github.com
+          git config --global user.name github-actions
+
+      - name: Conventional commit check
+        uses: cocogitto/cocogitto-action@v3.7
+        with:
+          git-user: 'github-actions'
+          git-user-email: 'github-actions@github.com'
