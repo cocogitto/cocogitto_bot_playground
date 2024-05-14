@@ -2,6 +2,26 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.4.0](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.4.0-beta2..1.4.0) - 2024-05-14
+#### Continuous Integration
+- test cocogitto action - ([2d7924f](https://github.com/cocogitto/cocogitto_bot_playground/commit/2d7924f8558aa85e82b6ab914b3cbdcfbcb84757)) - [@oknozor](https://github.com/oknozor)
+
+- - -
+
+## [1.4.0-beta2](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.3.0-beta1..1.4.0-beta2) - 2024-05-14
+#### Features
+- some stuff - ([65b3387](https://github.com/cocogitto/cocogitto_bot_playground/commit/65b33872a96730cd0c64d56d5ef73cd8eb82d112)) - [@oknozor](https://github.com/oknozor)
+#### Miscellaneous Chores
+- **(version)** 1.4.0-beta2 - ([b3c80fa](https://github.com/cocogitto/cocogitto_bot_playground/commit/b3c80fa47232bc40a601d7275716de7c32c9dd19)) - [@oknozor](https://github.com/oknozor)
+
+- - -
+
+## [1.3.0-beta1](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.3.0-beta1..1.3.0-beta1) - 2024-05-14
+#### Miscellaneous Chores
+- **(version)** 1.3.0-beta1 - ([ba18538](https://github.com/cocogitto/cocogitto_bot_playground/commit/ba18538ab56b11725e2e90a6be6a9d4b8d1129e7)) - [@oknozor](https://github.com/oknozor)
+
+- - -
+
 ## [1.4.0-beta2](https://github.com/cocogitto/cocogitto_bot_playground/compare/1.3.0-beta1..1.4.0-beta2) - 2023-10-28
 #### Features
 - some stuff - ([65b3387](https://github.com/cocogitto/cocogitto_bot_playground/commit/65b33872a96730cd0c64d56d5ef73cd8eb82d112)) - [@oknozor](https://github.com/oknozor)
