@@ -23,7 +23,14 @@ jobs:
           git config --global user.name github-actions
 
       - name: Conventional commit check
-        uses: cocogitto/cocogitto-action@v3.7
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: cocogitto/cocogitto-action@v3
+        with:
+          verify: ${{ github.event.pull_request.title }}
+
+      - name: Conventional commit check
+        uses: cocogitto/cocogitto-action@v3
         with:
           git-user: 'github-actions'
           git-user-email: 'github-actions@github.com'
+
